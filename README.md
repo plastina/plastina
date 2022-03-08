@@ -1,4 +1,5 @@
-🌱 Olaaaa, me chamo Bruno Plastina! Seja bem vindo!
+🌱 Olaaaa, me chamo Bruno Plastina! 
+Seja bem vindo!
 
 
 <div align="center">
