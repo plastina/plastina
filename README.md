@@ -1,6 +1,5 @@
-Olaaaa, me chamo Bruno Plastina! Seja bem vindo!
- 
-- 🌱 Estudo atualmente Física na UFRJ e também toda as teconologias do backend!
+🌱 Olaaaa, me chamo Bruno Plastina! Seja bem vindo!
+
 
 <div align="center">
   <a href="https://beacons.ai/plastina">
