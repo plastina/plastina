@@ -4,8 +4,8 @@ Olaaaa, me chamo Bruno Plastina! Seja bem vindo!
 
 <div align="center">
   <a href="https://beacons.ai/plastina">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=plastina&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plastina&layout=compact&langs_count=7&theme=blue-green"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=plastina&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plastina&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
 <div style="display: inline_block"><br>
