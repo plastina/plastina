@@ -5,7 +5,7 @@ Welcome!
 <div align="center">
   <a href="https://plastina.dev/">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=plastina&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-<b>
+<br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plastina&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
