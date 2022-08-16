@@ -1,6 +1,4 @@
-## 🌱 Helloooo! My name is Bruno Plastina! 
-Welcome!
-
+## 🌱 Welcome!! My name is Bruno Plastina! 
 
 <div align="center">
   <a href="https://plastina.dev/">
